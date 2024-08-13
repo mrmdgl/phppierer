@@ -35,6 +35,11 @@
         "squizlabs/php_codesniffer": "^3.6",
         "phan/phan": "^5.2"
     },
+    "scripts": {
+        "post-install-cmd": [
+            "php scripts/install.php"
+        ]
+    },
     "minimum-stability": "stable",
     "license": "MIT"
 }
