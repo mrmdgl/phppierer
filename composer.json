@@ -37,7 +37,7 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "php scripts/install.php"
+            "php scripts/message"
         ]
     },
     "minimum-stability": "stable",

@@ -1,0 +1,26 @@
+<?php
+
+echo "\n";
+echo "============================================\n";
+echo "  ⭐ Welcome to the Squehub PHP Framework ⭐  \n";
+echo "============================================\n";
+echo "\n";
+echo "🎉 Thank you for choosing Squehub for your development needs!\n";
+echo "✨ Squehub is designed to make your web development journey smoother and more enjoyable.\n";
+echo "\n";
+echo "🚀 Get started with the following commands:\n";
+echo "\n";
+echo "  - 🌐 Start the development server:    php servant start\n";
+echo "  - 📦 Run database migrations:         php servant migrate\n";
+echo "  - 📖 Display the list of commands:    php servant help\n";
+echo "\n";
+echo "💡 Tip: Use 'php servant help' anytime to see available commands and options.\n";
+echo "\n";
+echo "🔗 For full documentation and tutorials, visit:\n";
+echo "   https://github.com/mrmdgl/squehub\n";
+echo "\n";
+echo "🎯 Happy coding with Squehub! Let's build something amazing together.\n";
+echo "============================================\n";
+echo "\n";
+
+?>
